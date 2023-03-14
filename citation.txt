@@ -1,4 +1,4 @@
-@article{REPO-173,
+@article{REPO-172,
     author = "Wilcke, WX and Bloem, Peter and de Boer, Victor and van t Veer, RH and van Harmelen, FAH",
     journal = "arXiv preprint arXiv:2003.12383",
     title = "{End-to-End Entity Classification on Multimodal Knowledge Graphs}",
